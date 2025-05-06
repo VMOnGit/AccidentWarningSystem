@@ -1,0 +1,9 @@
+streamlit==1.39.0
+setuptools==65.5.1
+opencv-python==4.10.0.84 
+cvzone==1.6.1
+opencv-python==4.10.0.84
+mediapipe==0.10.15
+numpy==1.23.5
+torch==2.6.0
+requests==2.32.3
