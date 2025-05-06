@@ -7,4 +7,4 @@ opencv-contrib-python
 mediapipe==0.10.15
 torch==2.6.0
 requests==2.32.3
-time
+
