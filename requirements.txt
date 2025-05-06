@@ -1,7 +1,6 @@
 streamlit==1.39.0
 setuptools==65.5.1
 numpy==1.23.5
-opencv-python
 opencv-python-headless
 cvzone==1.6.1
 mediapipe==0.10.15
