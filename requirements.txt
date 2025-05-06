@@ -1,9 +1,9 @@
 streamlit==1.39.0
 setuptools==65.5.1
 numpy==1.23.5
-pip3 install opencv-python==4.3.0.36
+opencv-python==4.3.0.36
+opencv-python-headless
 cvzone==1.6.1
-opencv-contrib-python
 mediapipe==0.10.15
 torch==2.6.0
 requests==2.32.3
